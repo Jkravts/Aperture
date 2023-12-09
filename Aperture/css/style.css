@@ -127,6 +127,7 @@ header nav li:last-of-type a{
     flex-shrink: 0;
 }
 
+
 .main_banner .container{
     max-width: 580px;
     text-align: center;
